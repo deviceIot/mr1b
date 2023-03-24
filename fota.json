@@ -1,0 +1,7 @@
+{
+    "type": "esp32-fota-http",
+    "version": "0.230323.3",
+    "host": "raw.githubusercontent.com",
+    "port": 80,
+    "bin": "/dcorteletti/projetos/master/devicefirmware/firmware.bin"
+}
