@@ -1,6 +1,6 @@
 {
     "type": "esp32-fota-http",
-    "version": "0.230324.1",
+    "version": "0.230324.3",
     "host": "raw.githubusercontent.com",
     "port": 80,
     "bin": "/deviceIot/mr1b/main/firmware.bin"
